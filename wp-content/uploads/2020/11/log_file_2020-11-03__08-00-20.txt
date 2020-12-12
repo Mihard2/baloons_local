@@ -1,0 +1,413 @@
+
+---Downloaded files---
+The import files for: Flower Store were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://www.balloonsd.com
+Data file = /var/www/balloonsd.com/wp-content/themes/revo/lib/import/demo-24/data.xml
+Widget file = /var/www/balloonsd.com/wp-content/themes/revo/lib/import/demo-24/widgets.json
+Customizer file = not defined!
+Options files:
+revo_theme -> /var/www/balloonsd.com/wp-content/themes/revo/lib/import/demo-24/theme_options.txt 
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Left Blog : 
+
+Categories - No Title - Imported
+Text - No Title - Imported
+Recent Posts - Recent Post - Imported
+
+Sidebar Right Blog : 
+
+Categories - No Title - Imported
+Text - No Title - Imported
+Recent Posts - Recent Post - Imported
+
+Top Header : 
+
+WooCommerce Currency Converter - No Title - Imported
+Text - No Title - Imported
+Navigation Menu - My Account - Imported
+SW Top Widget - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+
+Top Header3 : 
+
+Navigation Menu - My account - Imported
+SW Top Widget - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+
+Top Header8 : 
+
+Navigation Menu - My account - Imported
+SW Top Widget - No Title - Imported
+WooCommerce Currency Converter - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+
+Top Header9 : 
+
+Text - No Title - Imported
+
+Top Header10 : 
+
+SW Top Widget - No Title - Imported
+Navigation Menu - My Account - Imported
+Text - No Title - Imported
+WooCommerce Currency Converter - No Title - Imported
+Text - No Title - Imported
+
+Top Header13 : 
+
+WooCommerce Currency Converter - No Title - Imported
+Custom HTML - No Title - Imported
+Custom HTML - No Title - Imported
+SW Top Widget - No Title - Imported
+Navigation Menu - My Account - Imported
+Custom HTML - No Title - Imported
+
+Top Header14 : 
+
+Custom HTML - No Title - Imported
+WooCommerce Currency Converter - No Title - Imported
+Custom HTML - No Title - Imported
+SW Top Widget - No Title - Imported
+
+Top Header20 : 
+
+Custom HTML - No Title - Imported
+
+Banner Header12 : 
+
+Text - No Title - Imported
+Image - No Title - Imported
+
+Contact Header : 
+
+Text - No Title - Imported
+SW Top Widget - No Title - Imported
+
+Mid Header : 
+
+Navigation Menu - No Title - Imported
+SW Top Widget - No Title - Imported
+
+Mid Header2 : 
+
+SW Top Widget - No Title - Imported
+
+Mid Header12 : 
+
+Text - No Title - Imported
+
+Bottom Header : 
+
+SW Top Widget - No Title - Imported
+Navigation Menu - No Title - Imported
+
+Header Right : 
+
+SW Top Widget - Cart - Imported
+
+Header Right Home4 : 
+
+Navigation Menu - My Account - Imported
+
+Header Right Home6 : 
+
+SW Top Widget - No Title - Imported
+Text - No Title - Imported
+
+Header Right Home9 : 
+
+SW Top Widget - No Title - Imported
+SW Ajax WooCommerce Search - Ajax Search - Imported
+Navigation Menu - My Account - Imported
+
+Header Right Home14 : 
+
+Custom HTML - No Title - Imported
+
+Header Left : 
+
+Text - No Title - Imported
+WooCommerce Currency Converter - No Title - Imported
+
+Sidebar Left Product : 
+
+WooCommerce product categories - Categories - Imported
+Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Size - Imported
+Filter Products by Price - price - Imported
+Text - No Title - Imported
+
+Sidebar Right Product : 
+
+WooCommerce product categories - Categories - Imported
+Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Size - Imported
+Filter Products by Price - price - Imported
+Text - No Title - Imported
+
+Sidebar Left Detail Product : 
+
+WooCommerce product categories - Categories - Imported
+Text - No Title - Imported
+
+Sidebar Right Detail Product : 
+
+WooCommerce product categories - Categories - Imported
+Text - No Title - Imported
+
+Sidebar Bottom Detail Product : 
+
+Sw Woocommerce Related &amp; Upsell Slider widget - No Title - Imported
+
+Filter Mobile : 
+
+Filter Products by Attribute - Color - Imported
+Filter Products by Attribute - Size - Imported
+Filter Products by Price - Price - Imported
+
+Footer Copyright : 
+
+Navigation Menu - No Title - Imported
+Image - No Title - Imported
+
+Widget Search : 
+
+SW Ajax WooCommerce Search - No Title - Imported
+
+
+
+---Importing widgets---
+Sidebar Left Blog : 
+
+Categories - No Title - Widget already exists
+Text - No Title - Widget already exists
+Recent Posts - Recent Post - Widget already exists
+
+Sidebar Right Blog : 
+
+Categories - No Title - Widget already exists
+Text - No Title - Widget already exists
+Recent Posts - Recent Post - Widget already exists
+
+Top Header : 
+
+WooCommerce Currency Converter - No Title - Widget already exists
+Text - No Title - Widget already exists
+Navigation Menu - My Account - Imported
+SW Top Widget - No Title - Widget already exists
+Text - No Title - Widget already exists
+Text - No Title - Widget already exists
+Text - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+Top Header3 : 
+
+Navigation Menu - My account - Imported
+SW Top Widget - No Title - Widget already exists
+Text - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+Top Header8 : 
+
+Navigation Menu - My account - Imported
+SW Top Widget - No Title - Widget already exists
+WooCommerce Currency Converter - No Title - Widget already exists
+Text - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+Top Header9 : 
+
+Text - No Title - Widget already exists
+
+Top Header10 : 
+
+SW Top Widget - No Title - Widget already exists
+Navigation Menu - My Account - Imported
+Text - No Title - Widget already exists
+WooCommerce Currency Converter - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+Top Header13 : 
+
+WooCommerce Currency Converter - No Title - Widget already exists
+Custom HTML - No Title - Widget already exists
+Custom HTML - No Title - Widget already exists
+SW Top Widget - No Title - Widget already exists
+Navigation Menu - My Account - Imported
+Custom HTML - No Title - Widget already exists
+
+Top Header14 : 
+
+Custom HTML - No Title - Widget already exists
+WooCommerce Currency Converter - No Title - Widget already exists
+Custom HTML - No Title - Widget already exists
+SW Top Widget - No Title - Widget already exists
+
+Top Header20 : 
+
+Custom HTML - No Title - Widget already exists
+
+Banner Header12 : 
+
+Text - No Title - Widget already exists
+Image - No Title - Widget already exists
+
+Contact Header : 
+
+Text - No Title - Widget already exists
+SW Top Widget - No Title - Widget already exists
+
+Mid Header : 
+
+Navigation Menu - No Title - Imported
+SW Top Widget - No Title - Widget already exists
+
+Mid Header2 : 
+
+SW Top Widget - No Title - Widget already exists
+
+Mid Header12 : 
+
+Text - No Title - Widget already exists
+
+Bottom Header : 
+
+SW Top Widget - No Title - Widget already exists
+Navigation Menu - No Title - Imported
+
+Header Right : 
+
+SW Top Widget - Cart - Widget already exists
+
+Header Right Home4 : 
+
+Navigation Menu - My Account - Imported
+
+Header Right Home6 : 
+
+SW Top Widget - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+Header Right Home9 : 
+
+SW Top Widget - No Title - Widget already exists
+SW Ajax WooCommerce Search - Ajax Search - Widget already exists
+Navigation Menu - My Account - Imported
+
+Header Right Home14 : 
+
+Custom HTML - No Title - Widget already exists
+
+Header Left : 
+
+Text - No Title - Widget already exists
+WooCommerce Currency Converter - No Title - Widget already exists
+
+Sidebar Left Product : 
+
+WooCommerce product categories - Categories - Widget already exists
+Filter Products by Attribute - Color - Widget already exists
+Filter Products by Attribute - Size - Widget already exists
+Filter Products by Price - price - Widget already exists
+Text - No Title - Widget already exists
+
+Sidebar Right Product : 
+
+WooCommerce product categories - Categories - Widget already exists
+Filter Products by Attribute - Color - Widget already exists
+Filter Products by Attribute - Size - Widget already exists
+Filter Products by Price - price - Widget already exists
+Text - No Title - Widget already exists
+
+Sidebar Left Detail Product : 
+
+WooCommerce product categories - Categories - Widget already exists
+Text - No Title - Widget already exists
+
+Sidebar Right Detail Product : 
+
+WooCommerce product categories - Categories - Widget already exists
+Text - No Title - Widget already exists
+
+Sidebar Bottom Detail Product : 
+
+Sw Woocommerce Related &amp; Upsell Slider widget - No Title - Widget already exists
+
+Filter Mobile : 
+
+Filter Products by Attribute - Color - Widget already exists
+Filter Products by Attribute - Size - Widget already exists
+Filter Products by Price - Price - Widget already exists
+
+Footer Copyright : 
+
+Navigation Menu - No Title - Imported
+Image - No Title - Widget already exists
+
+Widget Search : 
+
+SW Ajax WooCommerce Search - No Title - Widget already exists
+
+
+
+---pt-ocdi/after_import---
+array(14) {
+  ["import_file_name"]=>
+  string(12) "Flower Store"
+  ["page_title"]=>
+  string(12) "Home Page 24"
+  ["header_title"]=>
+  string(15) "Header style 24"
+  ["footer_title"]=>
+  string(15) "Footer style 24"
+  ["local_import_file"]=>
+  string(73) "/var/www/balloonsd.com/wp-content/themes/revo/lib/import/demo-24/data.xml"
+  ["local_import_widget_file"]=>
+  string(77) "/var/www/balloonsd.com/wp-content/themes/revo/lib/import/demo-24/widgets.json"
+  ["local_import_page_file"]=>
+  string(86) "/var/www/balloonsd.com/wp-content/themes/revo/lib/import/demo-24/demo-content-page.xml"
+  ["local_import_pagemenu_file"]=>
+  string(90) "/var/www/balloonsd.com/wp-content/themes/revo/lib/import/demo-24/demo-content-pagemenu.xml"
+  ["local_import_revslider"]=>
+  array(1) {
+    ["slide1"]=>
+    string(80) "/var/www/balloonsd.com/wp-content/themes/revo/lib/import/demo-24/slideshow24.zip"
+  }
+  ["local_import_options"]=>
+  array(1) {
+    [0]=>
+    array(2) {
+      ["file_path"]=>
+      string(82) "/var/www/balloonsd.com/wp-content/themes/revo/lib/import/demo-24/theme_options.txt"
+      ["option_name"]=>
+      string(10) "revo_theme"
+    }
+  }
+  ["menu_locate"]=>
+  array(2) {
+    ["primary_menu"]=>
+    string(12) "Primary Menu"
+    ["vertical_menu"]=>
+    string(13) "Verticle Menu"
+  }
+  ["import_preview_image_url"]=>
+  string(73) "http://www.balloonsd.com/wp-content/themes/revo/lib/import/demo-24/24.jpg"
+  ["import_notice"]=>
+  string(115) "After you import this demo, you will have to setup the slider separately. This import maybe finish on 10-15 minutes"
+  ["preview_url"]=>
+  string(48) "https://demo.wpthemego.com/themes/sw_revo/demo11"
+}
+

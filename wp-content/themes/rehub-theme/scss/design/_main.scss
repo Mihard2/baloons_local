@@ -1,0 +1,59 @@
+div.wpforms-container-full {
+    .wpforms-form {
+        max-width: 60%;
+        margin: 0 auto;
+
+        @include mq(md) {
+            max-width: 100%;
+        }
+
+        input.wpforms-field-medium,
+        select.wpforms-field-medium,
+        .wpforms-field-row.wpforms-field-medium,
+        .wpforms-field-textarea textarea {
+            max-width: 100%;
+        }
+    }
+}
+
+div.wpforms-container-full {
+    .wpforms-form {
+        .wpforms-submit-container {
+            display: flex;
+            justify-content: center;
+
+            button[type=submit] {
+                font-size: 18px;
+                font-weight: bold;
+                text-transform: uppercase;
+                fill: #ffffff;
+                color: #ffffff;
+                background-color: #ff0044;
+                border-radius: 100px 100px 100px 100px;
+                padding: 15px 25px 15px 25px;
+                transition: all .3s;
+
+                &:hover {
+                    color: #31DAF2;
+                    background-color: #ffffff;
+                    transform: scale(1.1);
+                }
+            }
+        }
+
+    }
+}
+
+#menu-main-menu {
+    .sub-menu {
+        display: flex;
+        flex-direction: column;
+    }
+}
+.rehub_chimp_flat {
+    #mc_embed_signup {
+        input#mc-embedded-subscribe {
+            border: 1px solid #000;
+        }
+    }
+} 
